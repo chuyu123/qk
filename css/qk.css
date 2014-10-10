@@ -1558,6 +1558,17 @@ footer .center{ padding-top:20px; color:#555;}
 .my-table-yxdd a{ text-decoration:underline; color:#2564cb;}
 .yxdd-mx{ color:#5e5e5e; border-bottom:1px solid #d4d4d4; background:#fdfeea; line-height:30px; padding-left:30px;}
 .yxdd-mx span{ margin-left:50px;}
+.myaccount-yxdd .my-table-yxdd{text-align: left;color: #333;}
+.myaccount-yxdd .my-table-hd th{padding:0;}
+.myaccount-yxdd .my-table-hd .orderId{padding-left:20px;}
+.myaccount-yxdd td{padding-right:30px;}
+.myaccount-yxdd .orderId{width:70px;padding-left:20px;}
+.myaccount-yxdd .content{width:127px;}
+.myaccount-yxdd .type{width:134px;}
+.myaccount-yxdd .sum{width:60px;}
+.myaccount-yxdd .pay-state{width:60px;color:#ce3400;font-weight:bold;}
+.myaccount-yxdd .success{color:#008000;}
+.myaccount-yxdd .date{width:180px;}
 .pts-ul{ padding:20px 40px;}
 .pts-ul li{ padding:5px 0;}
 .pts-ul .tit{ float:left; font-size:14px;}
